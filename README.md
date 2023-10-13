@@ -29,3 +29,6 @@ Checklist:
 
 1. Use any browser to open [this site](http://dining-concierge-xyh-xza.s3-website-us-east-1.amazonaws.com)
 2. Start sending messages to chat with the concierge
+
+## Page details ##
+![chatbot](https://github.com/xuz218/aws_dining_chatbox/blob/cf66561dd69e539f0b78c971f4d86f448a066a13/showcase.png)
