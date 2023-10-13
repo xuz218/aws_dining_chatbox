@@ -31,4 +31,4 @@ Checklist:
 2. Start sending messages to chat with the concierge
 
 ## Page details ##
-![chatbot](https://github.com/xuz218/aws_dining_chatbox/blob/cf66561dd69e539f0b78c971f4d86f448a066a13/showcase.png)
+![chatbot](https://github.com/xuz218/aws_dining_chatbox/blob/main/showcase.png)
