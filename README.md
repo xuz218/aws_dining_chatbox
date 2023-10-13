@@ -32,3 +32,4 @@ Checklist:
 
 ## Page details ##
 ![chatbot](https://github.com/xuz218/aws_dining_chatbox/blob/main/showcase.png)
+![email](https://github.com/xuz218/aws_dining_chatbox/blob/main/email.png).
