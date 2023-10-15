@@ -129,8 +129,6 @@ def insert_data(data_list, cuisine, db=None, table='yelp-restaurants'):
                 'ZipCode': data['location']['zip_code']
             })
             inserted_restaurants.add(data['id'])
-            os_response = opensearch(data['id'], cuisine)
-            print(f"Inserted into opensearch: {os_response}")
     # print('@insert_data: response', response)
     return response
 
